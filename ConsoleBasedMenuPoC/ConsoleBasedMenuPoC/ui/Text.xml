@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item TextKey="menu_quit" TextValue="Quit" />
+  <item TextKey="menu_actionA" TextValue="Action A" />
+  <item TextKey="menu_actionB" TextValue="Action B" />
+  <item TextKey="menu_actionC" TextValue="Action C" />
+</items>

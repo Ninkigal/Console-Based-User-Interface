@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item ActivationKey="Z" TextKey="menu_quit" Action="ConsoleBasedMenuPoC.MenuAction.Quit" />
+  <item ActivationKey="A" TextKey="menu_actionA" Action="ConsoleBasedMenuPoC.MenuAction.ActionA" />
+  <item ActivationKey="B" TextKey="menu_actionB" Action="ConsoleBasedMenuPoC.MenuAction.ActionB" />
+  <item ActivationKey="C" TextKey="menu_actionC" Action="ConsoleBasedMenuPoC.MenuAction.ActionC" />
+</items>
